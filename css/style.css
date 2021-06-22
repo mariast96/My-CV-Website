@@ -763,7 +763,7 @@ hr {
    }
 
    .main-image {
-      max-width: 50%;
+      width: 50%;
    }
 
    .project {
