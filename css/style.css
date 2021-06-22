@@ -492,7 +492,7 @@ hr {
 
 .front {
    width: 100%;
-   height: 38rem;
+   height: 35rem;
    background-color: #fff;
    -webkit-box-shadow: -1px 4px 27px -2px #a39da3;
    -moz-box-shadow: -1px 4px 27px -2px #a39da3;
@@ -511,7 +511,7 @@ hr {
    -o-transform: rotateY(180deg);
    transform: rotateY(180deg);
    width: 100%;
-   height: 100%;
+   height: 35rem;
    padding-bottom: 75px;
    margin-bottom: 5vh;
    color: #fff;
