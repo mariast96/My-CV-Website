@@ -360,7 +360,7 @@ button,
 }
 
 .main-image img {
-   max-width: 100%;
+   max-width: 130%;
    height: auto;
    border-radius: 50%;
    box-shadow: 2px 1px 15px 3px #66cbff;
@@ -715,7 +715,7 @@ hr {
    }
 
    .main-image {
-      width: 40%;
+      width: 50%;
    }
 
    .all-projects {
