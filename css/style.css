@@ -131,8 +131,8 @@ button,
 }
 
 ::-webkit-scrollbar {
-   width: 0.35em;
-   height: 0.15em;
+   width: 7px;
+   height: 5px;
 }
 
 ::-webkit-scrollbar-button {
