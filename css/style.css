@@ -754,10 +754,9 @@ hr {
       font-size: 1.5rem;
    }
 
-   /* .main-image {
+   .main-image {
       display: none;
-
-   } */
+   }
 }
 @media screen and (max-width: 1000px) {
    .what {
