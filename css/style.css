@@ -601,7 +601,7 @@ hr {
 }
 
 .card9 {
-   background-image: url("../images/marko-portfolio.jpg");
+   background-image: url("/images/portfolio.jpg");
 }
 
 .card10 {
@@ -632,7 +632,7 @@ hr {
 }
 
 .golf span {
-   background-image: linear-gradient(to right bottom, rgba(255, 190, 0, 0.8), rgba(255, 255, 0, 0.8));
+   background-image: linear-gradient(to right bottom, rgba(72, 255, 0, 0.897), rgba(98, 230, 86, 0.87));
 }
 
 .myreads span {
