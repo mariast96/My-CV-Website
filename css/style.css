@@ -451,7 +451,7 @@ hr {
    display: flex;
    flex-flow: row wrap;
    justify-content: space-between;
-   padding: 0 12.5%;
+   padding: 0 10%;
    overflow: auto;
 }
 
@@ -718,9 +718,12 @@ hr {
       width: 40%;
    }
 
+   .all-projects {
+      margin: 0 15px;
+   }
+
    .project {
       width: 35vw;
-      margin: 15px;
    }
 
    .heading-primary-main {
