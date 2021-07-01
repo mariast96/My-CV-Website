@@ -581,11 +581,11 @@ hr {
 }
 
 .card9 {
-   background-image: url("/images/portfolio.jpg");
+   background-image: url("../images/portfolio.jpg");
 }
 
 .card10 {
-   background-image: url("/images/gradient.jpg");
+   background-image: url("../images/gradient.jpg");
 }
 
 .project-name {
