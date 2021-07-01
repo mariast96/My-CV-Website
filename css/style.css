@@ -572,28 +572,8 @@ hr {
    background-repeat: no-repeat;
 }
 
-.card2 {
-   background-image: url("../images/myreads.jpg");
-}
-
-.card3 {
-   background-image: url("../images/asteroids.jpg");
-}
-
-.card4 {
-   background-image: url("../images/memorygame.jpg");
-}
-
-.card5 {
-   background-image: url("../images/ladybug.jpg");
-}
-
-.card6 {
-   background-image: url("../images/confusion.jpg");
-}
-
-.card7 {
-   background-image: url("../images/book-finder.jpg");
+.card1 {
+   background-image: url(../images/pic2.jpg);
 }
 
 .card8 {
@@ -632,37 +612,13 @@ hr {
 }
 
 .golf span {
-   background-image: linear-gradient(to right bottom, rgba(72, 255, 0, 0.897), rgba(98, 230, 86, 0.87));
-}
-
-.myreads span {
-   background-image: linear-gradient(to right bottom, rgba(40, 180, 133, 0.8), rgba(126, 213, 111, 0.8));
-}
-
-.asteroids span {
-   background-image: linear-gradient(to right bottom, rgba(0, 0, 255, 0.8), rgba(200, 40, 200, 0.8));
-}
-
-.memorygame span {
-   background-image: linear-gradient(to right bottom, rgba(2, 204, 186, 0.8), rgba(170, 126, 205, 0.8));
-}
-
-.ladybug span {
-   background-image: linear-gradient(to right bottom, rgba(50, 40, 255, 0.8), rgba(0, 0, 100, 0.8));
-}
-
-.confusion span {
-   background-image: linear-gradient(to right bottom, rgba(102, 203, 255, 0.8), rgba(0, 129, 193, 0.8));
+   background-image: linear-gradient(to right bottom, rgba(7, 62, 245, 0.24), rgba(65, 154, 236, 0.918));
 }
 
 .marko-portfolio span {
    background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.8), rgba(87, 87, 87, 0.8));
 }
 
-.book-finder span {
-   background: rgb(2, 0, 36);
-   background: linear-gradient(to right bottom, rgba(58, 39, 18, 1), rgba(180, 142, 101, 1));
-}
 .technologies {
    list-style-type: none;
    text-align: center;
@@ -764,6 +720,7 @@ hr {
 
    .project {
       width: 35vw;
+      margin: 15px;
    }
 
    .heading-primary-main {
