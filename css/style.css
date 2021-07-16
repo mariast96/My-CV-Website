@@ -355,13 +355,13 @@ button,
 
 .main-image {
    position: absolute;
-   right: -8%;
+   right: -12%;
    bottom: 25%;
 }
 
 .main-image img {
    max-width: 130%;
-   height: auto;
+   height: 350px;
    border-radius: 50%;
    box-shadow: 2px 1px 15px 3px #66cbff;
 }
